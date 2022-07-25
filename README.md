@@ -1,0 +1,2 @@
+# NLP-Exam-Project
+Text Emotions Detection. Currently, deep learning systems have difficulty understanding human emotion. This difficulty has negative implications in a variety of real-world situations such as chatbots and virtual assistants. The goal of this project is to resolve this situation by building a system that can understand human emotion in real-world dialogues. Dataset: https://drive.google.com/drive/folders/16NMRCRrECaCpLNYX1km_VG4E1fMv9IwK?usp=s
